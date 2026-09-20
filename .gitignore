@@ -3,3 +3,9 @@
 *.pem
 keylog.txt
 LEARNING_RUST.md
+/qlogs
+/certs/*.key
+/certs/*.crt
+/temp/probe/certs/
+/temp/probe/target
+/temp/*
