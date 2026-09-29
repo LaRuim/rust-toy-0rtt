@@ -1,4 +1,4 @@
-# rust-toy-0rtt
+# rust-0rtt
 
 An HTTP/3 client in Rust that resumes a QUIC session and sends its first request as 0-RTT early data. The client uses quiche and tokio-quiche and the tests read the qlog of each connection.
 
